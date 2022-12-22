@@ -1,2 +1,7 @@
 # Simple-Python-automated-scripts
-Python scripting and automating file system operations. There are two programs inside the folder. The first one display the structure of the file system directory and the second one  modify all files in a directory
+Python scripting and automating file system operations.
+
+There are two programs inside the folder. 
+
+list-directory-contents.py : display the structure of the file system directory
+update-filenames.py : modify all files names in a directory so that it contains today's date
