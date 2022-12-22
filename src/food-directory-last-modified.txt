@@ -1,0 +1,22 @@
+Directory: ../food
+Subdirectory: vegetables
+Subdirectory: fruits
+File: 2022-12-22 11.34.06.680073_2022-12-22 11.34.06.680073_.DS_Store
+
+Directory: ../food/vegetables
+File: 2022-12-22 11.28.35.441689_2022-12-22 11.28.35.441689_carrot.txt
+
+Directory: ../food/fruits
+Subdirectory: oranges
+Subdirectory: apples
+File: 2022-12-22 11.27.02.171862_2022-12-22 11.27.02.171862_.DS_Store
+File: 2022-12-22 11.26.02.107713_2022-12-22 11.26.02.107713_strawberry.txt
+File: 2022-12-22 11.26.40.537093_2022-12-22 11.26.40.537093_blueberry.txt
+File: 2022-12-22 11.25.48.348264_2022-12-22 11.25.48.348264_banana.txt
+
+Directory: ../food/fruits/oranges
+File: 2022-12-22 11.28.10.599578_2022-12-22 11.28.10.599578_mandarin.txt
+
+Directory: ../food/fruits/apples
+File: 2022-12-22 11.27.21.332536_2022-12-22 11.27.21.332536_honeycrisp.txt
+
